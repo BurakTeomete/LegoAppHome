@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LegoAppTr2</string>
+    <string name="content_description_story" formatted="true">%s nin attigi story</string>
+    <string name="content_description_feed_avatar">Gönderi sahibinin görselini içeren avatar</string>
+    <string name="content_description_feed_image">Gönderiyi gösteren resim</string>
+    <string name="button_like_content_description">Begen butonu</string>
+    <string name="button_comment_content_description">Yorum yap butonu</string>
+</resources>
